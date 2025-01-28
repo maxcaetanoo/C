@@ -1,4 +1,4 @@
-# Esse repositório é uma apresentação dos meus estudos diários
+## Esse repositório é uma representação dos meus estudos diários
 
 Descrição da arvore de arquivos
 
